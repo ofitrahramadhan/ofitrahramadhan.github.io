@@ -21,7 +21,7 @@ repository               : "ofitrahramadhan/ofitrahramadhan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Fitrah Ramadhan"
   pronouns         : # example: "she/her"  
   bio              : "Test 1: Gimana rasanya menjadi Data Scientist di Indonesia? Fun!"
