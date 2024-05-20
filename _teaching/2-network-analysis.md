@@ -1,0 +1,31 @@
+---
+title: "Module 2: Network Analysis"
+collection: teaching
+permalink: /workshop/2-network-analysis
+author_profile: false
+date: 2024-05-20
+---
+
+This page is dedicated for us that want to learn about using Git and its dependencies. Here is a list of git tutorial:
+
+## [1. How to create personal github page (for windows)](https://www.dropbox.com/scl/fi/6c0zoualilmch0e4093cu/githubpages.webp?rlkey=p9lsyz895rm0h95p8n1w59yqy&dl=0)
+Github page is a free and cool way to show our resume, work and portofolio which is very beneficial for many purposes (e.g. applying for work, giving a teaching, building a network, etc.). Without further ado, let’s go to the step-by-step in building our personalized github pages!
+![github_page](https://www.dropbox.com/scl/fi/6c0zoualilmch0e4093cu/githubpages.webp?rlkey=p9lsyz895rm0h95p8n1w59yqy&dl=0)
+
+======
+
+## 2. How to
+Github page is a free and cool way to show our resume, work and portofolio which is very beneficial for many purposes (e.g. applying for work, giving a teaching, building a network, etc.). Without further ado, let’s go to the step-by-step in building our personalized github pages!
+![github_page](https://www.dropbox.com/scl/fi/6c0zoualilmch0e4093cu/githubpages.webp?rlkey=p9lsyz895rm0h95p8n1w59yqy&dl=0)
+
+======
+
+## 3. aa
+Github page is a free and cool way to show our resume, work and portofolio which is very beneficial for many purposes (e.g. applying for work, giving a teaching, building a network, etc.). Without further ado, let’s go to the step-by-step in building our personalized github pages!
+![github_page](https://www.dropbox.com/scl/fi/6c0zoualilmch0e4093cu/githubpages.webp?rlkey=p9lsyz895rm0h95p8n1w59yqy&dl=0)
+
+======
+
+## 4. bb
+Github page is a free and cool way to show our resume, work and portofolio which is very beneficial for many purposes (e.g. applying for work, giving a teaching, building a network, etc.). Without further ado, let’s go to the step-by-step in building our personalized github pages!
+![github_page](https://www.dropbox.com/scl/fi/6c0zoualilmch0e4093cu/githubpages.webp?rlkey=p9lsyz895rm0h95p8n1w59yqy&dl=0)
