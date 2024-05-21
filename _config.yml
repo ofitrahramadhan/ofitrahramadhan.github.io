@@ -24,7 +24,7 @@ author:
   avatar           : "profile2.png"
   name             : "Fitrah Ramadhan"
   pronouns         : # example: "she/her"  
-  bio              : "Spatial Data Science Enthusiast with 5 years of experience, focusing on Optimizing Urban Intelligence"
+  bio              : # description
   location         : "London, United Kingdom"
   employer         : "University College London"
   uri              : # URL
