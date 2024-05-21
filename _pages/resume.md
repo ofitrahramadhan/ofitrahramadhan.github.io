@@ -9,7 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Highly motivated professional in the Urban Informatics domain with over six years of experience as a research and teaching assistant in the related field. Currently initiating research on the implementation of Big Data and Machine Learning in Urban Resilience to Climate Change.
+Hello! I am a professional in the Urban Analytics domain with over six years of experience as a research and teaching assistant in the field. Currently, 
+I am a master's student in Urban Spatial Science at University College London, 
+focusing on deepening my expertise in the implementation of Big Data (e.g., satellite imagery, social media, and mobile phone data) and 
+Machine Learning to enhance the analysis of Urban Resilience to Climate Change, 
+particularly in coastal areas of Indonesia and Southeast Asia.
 
 
 Education
