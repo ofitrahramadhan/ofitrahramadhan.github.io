@@ -13,7 +13,7 @@ After learning about Google Earth Engine (GEE) from CASA0025: Building Spatial A
 
 One of my products, created in collaboration with five other peers using GEE, is called cropinvest. This spatial application can predict crop yield for a specific crop in a designated field or area. When the application is opened, users can draw an area of interest (AOI) or select a specific area for a certain crop, and the machine will automatically calculate the yield the area has produced or will produce over a certain period. It's simple yet powerful!
 
-A full explanation of cropinvest can be accessed [here](https://ofitrahramadhan.github.io/bigdata_datacrafter/)
+A full explanation of cropinvest can be accessed here.
 
 Creating cropinvest only required partitions of datasets from the GEE catalogue, which contains dozens of datasets that can be utilized. For this reason, it would be exciting to unlock the greater potential of GEE for another case using different datasets, such as those related to health, income inequality, climate change, or urban studies. This plan is intended for a future project.
 
