@@ -1,11 +1,11 @@
 ---
-title: 'Monitoring Airbnb Dynamics? It Can Be Done with the Inside Airbnb Dataset!'
-date: 2023-12-01
-permalink: /posts/2023/12/monitoring-airbnb-dynamics-with-inside-airbnb-dataset/
+title: 'Popovic's 3D Map Visualization'
+date: 2023-12-10
+permalink: /posts/2023/12/popovic-3d-map-visualization/
 tags:
+  - milos-popovic
+  - 3d
   - insideairbnb
-  - bigdata
-  - data
 ---
 
 ![insideairbnb](https://www.dropbox.com/scl/fi/toor1qwhysar9ygytkwdh/insideairbnb.png?rlkey=rdhgooga3wlo7cw0fvw95oi3z&raw=1)
