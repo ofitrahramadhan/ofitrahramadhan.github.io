@@ -1,11 +1,11 @@
 ---
-title: 'Popovic's 3D Map Visualization'
-date: 2023-12-10
-permalink: /posts/2023/12/popovic-3d-map-visualization/
+title: 'Cak1'
+date: 2024-04-22
+permalink: /posts/2024/05/how-can-we-predict-the-crop-yield-in-a-certain-area-gee1/
 tags:
-  - milos-popovic
-  - 3d
-  - insideairbnb
+  - gee
+  - machinelearning
+  - cropyield
 ---
 
 ![insideairbnb](https://www.dropbox.com/scl/fi/toor1qwhysar9ygytkwdh/insideairbnb.png?rlkey=rdhgooga3wlo7cw0fvw95oi3z&raw=1)
