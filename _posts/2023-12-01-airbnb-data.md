@@ -1,11 +1,11 @@
 ---
-title: 'Cak1'
-date: 2024-04-22
-permalink: /posts/2024/05/how-can-we-predict-the-crop-yield-in-a-certain-area-gee1/
+title: 'Monitoring Airbnb Dynamics? It Can Be Done with the Inside Airbnb Dataset!'
+date: 2023-12-01
+permalink: /posts/2023/12/monitoring-airbnb-dynamics-it-can-be-done-with-the-inside-airbnb-dataset/
 tags:
-  - gee
-  - machinelearning
-  - cropyield
+  - bigdata
+  - airbnb
+  - housing
 ---
 
 ![insideairbnb](https://www.dropbox.com/scl/fi/toor1qwhysar9ygytkwdh/insideairbnb.png?rlkey=rdhgooga3wlo7cw0fvw95oi3z&raw=1)
