@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Hello! I am a professional in the Urban Analytics domain with over six years of experience as a fellow researcher in the related field. Having just graduated from MSc in Urban Spatial Science from University College London, I am now focused on applying my expertise in the use of planet-scale satellite imagery and machine learning to estimate socio-economic information, inspired by (SOJA's Socio-Spatial Dialectic)[https://politicasexpositivas.wordpress.com/wp-content/uploads/2015/01/soja-socio-spatial-dialectics.pdf], which benefits the urban planning process in countries of the Global South.
+Hello! I am a professional in the Urban Analytics domain with over six years of experience as a fellow researcher in the related field. Having just graduated from MSc in Urban Spatial Science from University College London, I am now focused on applying my expertise in the use of planet-scale satellite imagery and machine learning to estimate socio-economic information, inspired by [SOJA's Socio-Spatial Dialectic](https://politicasexpositivas.wordpress.com/wp-content/uploads/2015/01/soja-socio-spatial-dialectics.pdf) , which benefits the urban planning process in countries of the Global South.
 
 Education
 ======
