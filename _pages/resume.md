@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Hello! I am a professional in the Urban Analytics domain with over six years of experience as a research and teaching assistant in the field. Currently, I am a master's student in Urban Spatial Science at University College London, focusing on deepening my expertise in the use of planet-scale satellite imagery and machine learning to estimate socio-economic information, inspired by (SOJA)[https://politicasexpositivas.wordpress.com/wp-content/uploads/2015/01/soja-socio-spatial-dialectics.pdf], which benefits the urban planning process in countries of the Global South.
+Hello! I am a professional in the Urban Analytics domain with over six years of experience as a fellow researcher in the related field. Having just graduated from MSc in Urban Spatial Science from University College London, I am now focused on applying my expertise in the use of planet-scale satellite imagery and machine learning to estimate socio-economic information, inspired by (SOJA's Socio-Spatial Dialectic)[https://politicasexpositivas.wordpress.com/wp-content/uploads/2015/01/soja-socio-spatial-dialectics.pdf], which benefits the urban planning process in countries of the Global South.
 
 Education
 ======
-* __M.Sc. in Urban Spatial Science, University College London (UCL), Present__
+* __M.Sc. in Urban Spatial Science, University College London (UCL), 2024__
   * Final dissertation (on-going): measure the risk level of informal settlement to coastal flooding in Semarang City with using Google Earth Engine.
   * Created [geographical user interface](https://ofitrahramadhan.github.io/bigdata_datacrafter/) in Google Earth Engine for estimating the food's annual yield and price in North Dakota, United States.
   * Evaluating [the Performance of Nighttime Light (NTL) and Built Area Structure](https://github.com/ofitrahramadhan/performance_comparison) in Predicting Deprivation Indices: A Case Study of Greater London.
@@ -48,7 +48,7 @@ Skills
   
 Service and leadership
 ======
-* __August 2023 - Present: Co-Founder & Head of Strategic Mentorship, Diascholar__
+* __August 2023 - August 2024: Co-Founder & Head of Strategic Mentorship, Diascholar__
   * Manage intensive mentorship for 40 awardees to prepare them for studying abroad
   * Conduct monthly webinars on tips and tricks for successfully living abroad, particularly for working and studying
 
